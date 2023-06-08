@@ -1,8 +1,8 @@
 {
   "textures": {
-    "layer0": "item/netheite_pickaxe"
+    "layer0": "minecraft:item/netheite_pickaxe"
   },
-  "parent": "item/handheld_rod",
+  "parent": "minecraft:item/handheld_rod",
   "overrides": [
     {
       "predicate": {"custom_model_data": 1},"model": "item/custom/skypick"}
