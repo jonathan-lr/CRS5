@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "layer0": "item/netheite_axe"
+  },
+  "parent": "item/handheld_rod",
+  "overrides": [
+    {
+      "predicate": {"custom_model_data": 1},"model": "item/custom/skyaxe"}
+  ]
+}
