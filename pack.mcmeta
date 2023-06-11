@@ -1,6 +1,11 @@
 {
-    "pack": {
-        "pack_format": 8,
-        "description": "\u00a76CRS5 1.20\n\u00a7eby Red & Yorick"
-    }
+  "pack": {
+    "pack_format": 15,
+    "description": "§5CR§cS5 §61.20 \n§8by §4Red §8& §2Yorick"
+  },
+  "features": {
+    "enabled": [
+      "vanilla"
+    ]
+  }
 }
