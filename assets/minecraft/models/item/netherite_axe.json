@@ -5,6 +5,8 @@
   },
   "overrides": [
 	{"predicate": {"custom_model_data": 1},"model": "item/custom/sky/axe"},
-	{"predicate": {"custom_model_data": 2},"model": "item/custom/fire/axe"}
+	{"predicate": {"custom_model_data": 2},"model": "item/custom/fire/axe"},
+	{"predicate": {"custom_model_data": 3},"model": "item/custom/water/axe"},
+	{"predicate": {"custom_model_data": 4},"model": "item/custom/earth/axe"}
   ]
 }
