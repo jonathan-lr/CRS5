@@ -23,5 +23,15 @@
 		"sounds": [
 			"custom/thud"
 		]
+	},
+	"awp.shoot": {
+		"sounds": [
+			"custom/awp-shot"
+		]
+	},
+	"awp.hit": {
+		"sounds": [
+			"custom/awp-hit"
+		]
 	}
 }
